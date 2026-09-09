@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jefte
 
-<!--
-**Jwfte/Jwfte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Engenharia de Software, interessado em desenvolvimento de software e tecnologia.
+
+## Tecnologias
+
+- HTML
+- CSS
+- Python
+- Git
+- GitHub
+
+## Certificações e formações
+
+### GitHub Foundations
+
+Concluído pela Microsoft Learn.
+
+[Ver credencial]([COLE-AQUI-O-LINK](https://learn.microsoft.com/pt-br/users/jeftecoutinholima-0130/achievements/crk65f79))
